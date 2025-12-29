@@ -1,0 +1,126 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "businessAccount": {},
+  "creatorSubscriptionsCount": 0,
+  "hasGraduatedAccess": true,
+  "highlightsInfo": {
+    "canHighlightTweets": true,
+    "highlightedTweets": "40"
+  },
+  "id": "VXNlcjoxMjYwNTUzOTQxNzE0MTg2MjQx",
+  "isBlueVerified": true,
+  "isProfileTranslatable": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 13 12:54:20 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/chinese_dissid…",
+            "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+            "url": "https://t.co/SwoJzv97eA",
+            "indices": [
+              7,
+              30
+            ]
+          },
+          {
+            "display_url": "t.me/whyyoutouzhele…",
+            "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+            "url": "https://t.co/OWEgUHVaqG",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/lilaoshibushin…",
+            "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+            "url": "https://t.co/oYAawk45Un",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8536,
+    "followersCount": 2171153,
+    "following": false,
+    "friendsCount": 989,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 8471,
+    "location": "偷乐星球",
+    "mediaCount": 39203,
+    "name": "李老师不是你老师",
+    "normalFollowersCount": 2171153,
+    "pinnedTweetIdsStr": [
+      "2001620917701501364"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "whyyoutouzhele",
+    "statusesCount": 46120,
+    "translatorType": "none",
+    "url": "https://t.co/oYAawk45Un",
+    "verified": false,
+    "wantRetweets": false,
+    "withheldInCountries": []
+  },
+  "legacyExtendedProfile": {},
+  "premiumGiftingEligible": false,
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1679955392569171972"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1260553941714186241",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qatznzwlpclah3aewy36p50xgmug0sucdz5p7ps",
+    "ethereumHandle": "0x9aa9854658714B6AAD07b3690Cd3Ed8D9FfD3f85",
+    "isEnabled": true
+  },
+  "userSeedTweetCount": 2,
+  "verificationInfo": {
+    "isIdentityVerified": false,
+    "reason": {
+      "description": {
+        "entities": [
+          {
+            "fromIndex": 26,
+            "ref": {
+              "url": "https://help.twitter.com/managing-your-account/about-twitter-verified-accounts",
+              "urlType": "ExternalUrl"
+            },
+            "toIndex": 36
+          }
+        ],
+        "text": "This account is verified. Learn more"
+      },
+      "verifiedSinceMsec": "1682246642622"
+    }
+  }
+}
