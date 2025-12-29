@@ -1,20 +1,8 @@
 [
   {
-    "username": "DennisThink",
-    "twitter_url": "https://x.com/YanHuiMi",
-    "description": "awesome_twitter_CN作者，软件工程师，喜欢分享有趣和好玩的内容，分享思考的idea",
-    "tags": [ "软件工程师", "内容分享" ],
-    "id": "2809670209"
-  }, {
-    "username": "nateleex",
-    "twitter_url": "https://x.com/nateleex",
-    "description": "创业公司CEO，B站20W粉丝视频博主，内容涉及商业创业等领域",
-    "tags": [ "创业者", "CEO", "视频博主", "AI出海" ],
-    "id": "630067994"
-  }, {
-    "username": "whyyoutouzhele",
-    "twitter_url": "https://x.com/whyyoutouzhele",
-    "description": "李老师不是你老师",
-    "tags": [ "创业者", "CEO", "视频博主", "AI出海" ],
-  }
+  "username": "whyyoutouzhele",
+  "twitter_url": "https://x.com/whyyoutouzhele", 
+  "description": "111",
+  "tags": ["标签1", "标签2"]
+}
 ]
