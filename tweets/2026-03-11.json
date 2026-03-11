@@ -1,11 +1,130 @@
 [
   {
     "user": {
+      "screenName": "nitin_gadkari",
+      "name": "Nitin Gadkari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
+      "description": "Minister of Road Transport & Highways, Government of India.",
+      "followersCount": 15450478,
+      "friendsCount": 526,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031671095846445056/vid/avc1/1080x1920/9epEu7y8uSZ4pMR-.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/nitin_gadkari/status/2031671824418050411",
+    "fullText": "📍संसद भवन, नई दिल्ली \n\nसंसद के बजट सत्र के दौरान आज विभिन्न क्षेत्र के सांसदों ने संसद कक्ष में भेंट कर अपने क्षेत्रों में चल रहे विकास कार्यों पर चर्चा की।\n\n#BudgetSession #Parliament #ParliamentSession2026 https://t.co/BV1O5p5JUg"
+  },
+  {
+    "user": {
       "screenName": "narendramodi",
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031658380239286272/vid/avc1/1920x1080/HiQ49WHgKZ41f2mZ.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/narendramodi/status/2031669736422150503",
+    "fullText": "A boost to connectivity in Keralam! https://t.co/tlLkXV0HGp"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106407167,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031658377580068864/vid/avc1/1920x1080/ZX9H_CytRXJ0tQLj.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/narendramodi/status/2031668998929252680",
+    "fullText": "The Polypropylene Unit at the Kochi Refinery will strengthen our efforts towards self-reliance and support many sectors like packaging, textiles, automobiles and medical devices. https://t.co/W54SZiReB0"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106407167,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031667825010708480/vid/avc1/1280x720/AOVhKu3O0zDR-Go2.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/narendramodi/status/2031668093156807119",
+    "fullText": "Akhila Kerala Dheevara Sabha has made a very significant contribution in promoting social harmony and unity in society. https://t.co/AtNj0T6SEv"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106407167,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031642474003968004/vid/avc1/1280x720/V79QIK5d36NEHf9q.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/narendramodi/status/2031667708962693255",
+    "fullText": "It was our Government that created a separate ministry for the welfare of fishermen. This benefitted Keralam significantly. It’s great to see FPOs growing in the sector too. https://t.co/L0fKeDg5sS"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106407167,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031642473718755336/vid/avc1/1280x720/j5NEP_InzuLiOubf.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/narendramodi/status/2031667369723252799",
+    "fullText": "Today, new opportunities are emerging in seaweed production. Our Government is encouraging the same. \n\nLikewise, we are promoting modern fish farming systems too. https://t.co/isdKdIpfTi"
+  },
+  {
+    "user": {
+      "screenName": "rsprasad",
+      "name": "Ravi Shankar Prasad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833568215072706561/nwmXCzSF_normal.jpg",
+      "description": "Member of Parliament from Patna Sahib Lok Sabha, Bihar. BJP worker.",
+      "followersCount": 5201930,
+      "friendsCount": 524,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2031664475296940032/vid/avc1/640x360/M_TR2G20a2d4yPQU.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/rsprasad/status/2031664901215945110",
+    "fullText": "My speech today in the Lok Sabha.\n#BudgetSession2026 https://t.co/n4lUKnrcsM"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -20,7 +139,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -40,7 +159,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58237619,
+      "followersCount": 58238023,
       "friendsCount": 539,
       "location": "India"
     },
@@ -55,7 +174,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58237619,
+      "followersCount": 58238023,
       "friendsCount": 539,
       "location": "India"
     },
@@ -70,7 +189,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -85,7 +204,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -100,7 +219,7 @@
       "name": "Buidlpad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2008020590763094016/mlbtOhMQ_normal.jpg",
       "description": "Launch the Future.\nVisit https://t.co/DJeYCwiiVA for support (beware of impersonators)",
-      "followersCount": 223918,
+      "followersCount": 223906,
       "friendsCount": 11,
       "location": "With the Community"
     },
@@ -117,7 +236,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -134,7 +253,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36776379,
+      "followersCount": 36765944,
       "friendsCount": 317,
       "location": ""
     },
@@ -152,7 +271,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -167,7 +286,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -184,7 +303,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -201,7 +320,7 @@
       "name": "MomentumⓂ️Ⓜ️T",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_normal.jpg",
       "description": "Building a global financial OS for the tokenized future // Backed by @SuiNetwork @Coinbase @Circle @Jump_ @OKX_Ventures // https://t.co/2dKR0MTrPq",
-      "followersCount": 329448,
+      "followersCount": 329444,
       "friendsCount": 343,
       "location": "Sui & Beyond"
     },
@@ -218,7 +337,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58237619,
+      "followersCount": 58238023,
       "friendsCount": 539,
       "location": "India"
     },
@@ -236,7 +355,7 @@
       "name": "MomentumⓂ️Ⓜ️T",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_normal.jpg",
       "description": "Building a global financial OS for the tokenized future // Backed by @SuiNetwork @Coinbase @Circle @Jump_ @OKX_Ventures // https://t.co/2dKR0MTrPq",
-      "followersCount": 329448,
+      "followersCount": 329444,
       "friendsCount": 343,
       "location": "Sui & Beyond"
     },
@@ -251,7 +370,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36776379,
+      "followersCount": 36765944,
       "friendsCount": 317,
       "location": ""
     },
@@ -271,7 +390,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36776379,
+      "followersCount": 36765944,
       "friendsCount": 317,
       "location": ""
     },
@@ -288,7 +407,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36776379,
+      "followersCount": 36765944,
       "friendsCount": 317,
       "location": ""
     },
@@ -305,7 +424,7 @@
       "name": "Subramanian Swamy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1558625924488339459/kriGq-tU_normal.jpg",
       "description": "President of Virat Hindustan Sangam, fmr Cabinet Minister, Six terms MP, Member BJP, Harvard Ph.D (Economics), former Professor, I give as good as I get.",
-      "followersCount": 10356013,
+      "followersCount": 10356012,
       "friendsCount": 174,
       "location": "New Delhi"
     },
@@ -320,7 +439,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -337,7 +456,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -354,7 +473,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -372,7 +491,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -389,7 +508,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -406,7 +525,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -421,7 +540,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -436,7 +555,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -451,7 +570,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -466,7 +585,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -481,7 +600,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -496,7 +615,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -511,7 +630,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -526,7 +645,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -541,7 +660,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -556,7 +675,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -571,7 +690,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -586,7 +705,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -603,7 +722,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58237619,
+      "followersCount": 58238023,
       "friendsCount": 539,
       "location": "India"
     },
@@ -620,7 +739,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58237619,
+      "followersCount": 58238023,
       "friendsCount": 539,
       "location": "India"
     },
@@ -637,7 +756,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58237619,
+      "followersCount": 58238023,
       "friendsCount": 539,
       "location": "India"
     },
@@ -654,7 +773,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58237619,
+      "followersCount": 58238023,
       "friendsCount": 539,
       "location": "India"
     },
@@ -671,7 +790,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -686,7 +805,7 @@
       "name": "Ravi Shankar Prasad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833568215072706561/nwmXCzSF_normal.jpg",
       "description": "Member of Parliament from Patna Sahib Lok Sabha, Bihar. BJP worker.",
-      "followersCount": 5201929,
+      "followersCount": 5201930,
       "friendsCount": 524,
       "location": "India"
     },
@@ -703,7 +822,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -718,7 +837,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -735,7 +854,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -755,7 +874,7 @@
       "name": "Subramanian Swamy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1558625924488339459/kriGq-tU_normal.jpg",
       "description": "President of Virat Hindustan Sangam, fmr Cabinet Minister, Six terms MP, Member BJP, Harvard Ph.D (Economics), former Professor, I give as good as I get.",
-      "followersCount": 10356013,
+      "followersCount": 10356012,
       "friendsCount": 174,
       "location": "New Delhi"
     },
@@ -770,7 +889,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36776379,
+      "followersCount": 36765944,
       "friendsCount": 317,
       "location": ""
     },
@@ -790,7 +909,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36776379,
+      "followersCount": 36765944,
       "friendsCount": 317,
       "location": ""
     },
@@ -807,7 +926,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -822,7 +941,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -837,7 +956,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -854,7 +973,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -871,7 +990,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -888,7 +1007,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -903,7 +1022,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -920,7 +1039,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106406534,
+      "followersCount": 106407167,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -935,7 +1054,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15450409,
+      "followersCount": 15450478,
       "friendsCount": 526,
       "location": ""
     },
@@ -950,7 +1069,7 @@
       "name": "MomentumⓂ️Ⓜ️T",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_normal.jpg",
       "description": "Building a global financial OS for the tokenized future // Backed by @SuiNetwork @Coinbase @Circle @Jump_ @OKX_Ventures // https://t.co/2dKR0MTrPq",
-      "followersCount": 329448,
+      "followersCount": 329444,
       "friendsCount": 343,
       "location": "Sui & Beyond"
     },
@@ -967,7 +1086,7 @@
       "name": "Subramanian Swamy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1558625924488339459/kriGq-tU_normal.jpg",
       "description": "President of Virat Hindustan Sangam, fmr Cabinet Minister, Six terms MP, Member BJP, Harvard Ph.D (Economics), former Professor, I give as good as I get.",
-      "followersCount": 10356013,
+      "followersCount": 10356012,
       "friendsCount": 174,
       "location": "New Delhi"
     },
@@ -982,7 +1101,7 @@
       "name": "MomentumⓂ️Ⓜ️T",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_normal.jpg",
       "description": "Building a global financial OS for the tokenized future // Backed by @SuiNetwork @Coinbase @Circle @Jump_ @OKX_Ventures // https://t.co/2dKR0MTrPq",
-      "followersCount": 329448,
+      "followersCount": 329444,
       "friendsCount": 343,
       "location": "Sui & Beyond"
     },
