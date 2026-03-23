@@ -1,12 +1,95 @@
 [
   {
     "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58255451,
+      "friendsCount": 539,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEGwruNaQAAM09k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2036103276417183964",
+    "fullText": "This is the new India.\n\nIt is leaving no stone unturned for development. https://t.co/lJERMPe5Qv"
+  },
+  {
+    "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58255451,
+      "friendsCount": 539,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEGuhTWa4AALdiJ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2036102669199409557",
+    "fullText": "What gets measured gets improved and ultimately gets transformed. https://t.co/BgUle3Wxt1"
+  },
+  {
+    "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58255451,
+      "friendsCount": 539,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEGuKu0aIAA7Y35.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2036100285438066753",
+    "fullText": "From the Gulf to the Global West and from the Global South to neighbouring countries, India is a trusted partner for all. https://t.co/b0BIJdHAPc"
+  },
+  {
+    "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58255451,
+      "friendsCount": 539,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HEGtdb7awAAmKHx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2036099865877565573",
+    "fullText": "Today, India is moving forward with a new confidence.\n\nNow India faces challenges head-on. https://t.co/jlcydDdY0R"
+  },
+  {
+    "user": {
       "screenName": "narendramodi",
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106487493,
-      "friendsCount": 2675,
+      "followersCount": 106489505,
+      "friendsCount": 2676,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2036098828232008179",
+    "fullText": "Speaking at the TV9 Network Summit. https://t.co/fiaCB5dWh1"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106489505,
+      "friendsCount": 2676,
       "location": "India"
     },
     "images": [],
@@ -22,8 +105,8 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106487493,
-      "friendsCount": 2675,
+      "followersCount": 106489505,
+      "friendsCount": 2676,
       "location": "India"
     },
     "images": [],
@@ -39,8 +122,8 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106487493,
-      "friendsCount": 2675,
+      "followersCount": 106489505,
+      "friendsCount": 2676,
       "location": "India"
     },
     "images": [],
@@ -56,8 +139,8 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106487493,
-      "friendsCount": 2675,
+      "followersCount": 106489505,
+      "friendsCount": 2676,
       "location": "India"
     },
     "images": [],
@@ -73,8 +156,8 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106487493,
-      "friendsCount": 2675,
+      "followersCount": 106489505,
+      "friendsCount": 2676,
       "location": "India"
     },
     "images": [],
@@ -90,7 +173,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58254901,
+      "followersCount": 58255451,
       "friendsCount": 539,
       "location": "India"
     },
@@ -105,7 +188,7 @@
       "name": "Ravi Shankar Prasad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833568215072706561/nwmXCzSF_normal.jpg",
       "description": "Member of Parliament from Patna Sahib Lok Sabha, Bihar. BJP worker.",
-      "followersCount": 5199264,
+      "followersCount": 5199265,
       "friendsCount": 524,
       "location": "India"
     },
@@ -122,7 +205,7 @@
       "name": "Subramanian Swamy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1558625924488339459/kriGq-tU_normal.jpg",
       "description": "President of Virat Hindustan Sangam, fmr Cabinet Minister, Six terms MP, Member BJP, Harvard Ph.D (Economics), former Professor, I give as good as I get.",
-      "followersCount": 10351028,
+      "followersCount": 10351064,
       "friendsCount": 175,
       "location": "New Delhi"
     },
@@ -137,7 +220,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58254901,
+      "followersCount": 58255451,
       "friendsCount": 539,
       "location": "India"
     },
@@ -167,7 +250,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58254901,
+      "followersCount": 58255451,
       "friendsCount": 539,
       "location": "India"
     },
@@ -182,7 +265,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58254901,
+      "followersCount": 58255451,
       "friendsCount": 539,
       "location": "India"
     },
@@ -197,7 +280,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15457190,
+      "followersCount": 15457319,
       "friendsCount": 526,
       "location": ""
     },
@@ -212,7 +295,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36745610,
+      "followersCount": 36745993,
       "friendsCount": 317,
       "location": ""
     },
@@ -227,8 +310,8 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106487493,
-      "friendsCount": 2675,
+      "followersCount": 106489505,
+      "friendsCount": 2676,
       "location": "India"
     },
     "images": [],
