@@ -1,11 +1,178 @@
 [
   {
     "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58287013,
+      "friendsCount": 540,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGMk7Q2bsAA7Zj2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2045519681969361405",
+    "fullText": "संसद में नारीशक्ति वंदन संशोधन का जिन भी दलों ने विरोध किया है, वे लोग नारी शक्ति को for granted ले रहे हैं: PM @narendramodi https://t.co/W23Fwq214H"
+  },
+  {
+    "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58287013,
+      "friendsCount": 540,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGMkk8HbYAAZt-N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2045519075498205417",
+    "fullText": "नारी सब भूल जाती है, अपना अपमान कभी नहीं भूलती: PM @narendramodi https://t.co/A76uJkfOlK"
+  },
+  {
+    "user": {
+      "screenName": "AmitShah",
+      "name": "Amit Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
+      "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
+      "followersCount": 36794915,
+      "friendsCount": 317,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AmitShah/status/2045518176360771761",
+    "fullText": "PM Shri @narendramodi Ji addresses the nation. https://t.co/PT8pWU3UfN"
+  },
+  {
+    "user": {
+      "screenName": "nitin_gadkari",
+      "name": "Nitin Gadkari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
+      "description": "Minister of Road Transport & Highways, Government of India.",
+      "followersCount": 15466556,
+      "friendsCount": 526,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nitin_gadkari/status/2045518056647204995",
+    "fullText": "Hon’ble Prime Minister Shri Narendra Modi Ji addressing the nation. https://t.co/y9jhX8HWp1"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106660726,
+      "friendsCount": 2679,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2045517805915713592",
+    "fullText": "My address to the nation. https://t.co/2Vyx15A4rx"
+  },
+  {
+    "user": {
       "screenName": "smritiirani",
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
+      "friendsCount": 1442,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2045516052310953984/pu/vid/avc1/1280x720/dPcMfK1W1x8Qnv9v.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/smritiirani/status/2045516101224988837",
+    "fullText": "In 2010, the BJP supported the UPA government in the Rajya Sabha on the same legislation that the Congress-led opposition is opposing today in the Lok Sabha. https://t.co/qwa1V7jwby"
+  },
+  {
+    "user": {
+      "screenName": "AmitShah",
+      "name": "Amit Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
+      "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
+      "followersCount": 36794915,
+      "friendsCount": 317,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGMdPopa4AAdJ2H.jpg",
+      "https://pbs.twimg.com/media/HGMdPopbUAEd4tP.jpg",
+      "https://pbs.twimg.com/media/HGMdPoubkAANv2F.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AmitShah/status/2045510818641674333",
+    "fullText": "Congratulations to our sisters and brothers of Uttar Pradesh and Andhra Pradesh on approval of two railway multitracking projects worth Rs.24,815 crore by Union Cabinet today. It will accelerate Modi Ji's vision of all-inclusive growth through enhanced connectivity and movement. https://t.co/u8FnoMGpt3"
+  },
+  {
+    "user": {
+      "screenName": "smritiirani",
+      "name": "Smriti Z Irani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
+      "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
+      "followersCount": 12181515,
+      "friendsCount": 1442,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2045510212908687360/pu/vid/avc1/848x478/i5Jo3WO6GmERnpgG.mp4?tag=19"
+    ],
+    "tweetUrl": "https://x.com/smritiirani/status/2045510292982149534",
+    "fullText": "In the guise of delimitation and electoral timing, the opposition has brazenly denied the women of India their political right &amp; ambition. https://t.co/SMyS7767Ip"
+  },
+  {
+    "user": {
+      "screenName": "AmitShah",
+      "name": "Amit Shah",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
+      "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
+      "followersCount": 36794915,
+      "friendsCount": 317,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HGMbErqaIAABJPR.jpg",
+      "https://pbs.twimg.com/media/HGMbErpagAEnJcL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AmitShah/status/2045508430581153834",
+    "fullText": "Union Cabinet, under the leadership of Modi Ji, strengthened our maritime industry to face any odds by approving Bharat Maritime Insurance Pool. The ₹12,980 cr. corpus will provide continuous insurance to our ships in all conditions, insulating our growth from any global risks. https://t.co/N9CpEgvXz6"
+  },
+  {
+    "user": {
+      "screenName": "rsprasad",
+      "name": "Ravi Shankar Prasad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833568215072706561/nwmXCzSF_normal.jpg",
+      "description": "Member of Parliament from Patna Sahib Lok Sabha, Bihar. BJP worker.",
+      "followersCount": 5193357,
+      "friendsCount": 525,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2045505233225474048/vid/avc1/1920x1080/9dlyk8opnaN7kvl6.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/rsprasad/status/2045506689991151790",
+    "fullText": "No revision of seats in the Lok Sabha or Vidhan Sabha is possible without delimitation.\n\nArticle 81, Clause (2) of the Constitution of India mandates that Lok Sabha seats be allotted to each State, and each State be divided into territorial constituencies in a manner that ensures https://t.co/fqgeknfKmg"
+  },
+  {
+    "user": {
+      "screenName": "smritiirani",
+      "name": "Smriti Z Irani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
+      "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -22,7 +189,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -41,7 +208,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106660621,
+      "followersCount": 106660726,
       "friendsCount": 2679,
       "location": "India"
     },
@@ -56,7 +223,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -69,11 +236,28 @@
   },
   {
     "user": {
+      "screenName": "ismyhc",
+      "name": "Jacob",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865047265749958656/z4wdOcUK_normal.jpg",
+      "description": "Husband | Father of 3 | Software Developer | Swift/SwiftUI | Go | Odin | Jai | C | Prototyping stuff!",
+      "followersCount": 1459,
+      "friendsCount": 1369,
+      "location": "North Carolina, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2045483320469803008/vid/avc1/1080x1920/Il6IQiHbx6MFA7vN.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ismyhc/status/2045483453538288045",
+    "fullText": "Take a look at the new Bible app I just launched. Link below! I would appreciate it if you could try it and rate the app. 🙏 https://t.co/JG1t8gmp0v"
+  },
+  {
+    "user": {
       "screenName": "rsprasad",
       "name": "Ravi Shankar Prasad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833568215072706561/nwmXCzSF_normal.jpg",
       "description": "Member of Parliament from Patna Sahib Lok Sabha, Bihar. BJP worker.",
-      "followersCount": 5193354,
+      "followersCount": 5193357,
       "friendsCount": 525,
       "location": "India"
     },
@@ -90,7 +274,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -107,7 +291,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -124,7 +308,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -143,7 +327,7 @@
       "name": "Ravi Shankar Prasad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833568215072706561/nwmXCzSF_normal.jpg",
       "description": "Member of Parliament from Patna Sahib Lok Sabha, Bihar. BJP worker.",
-      "followersCount": 5193354,
+      "followersCount": 5193357,
       "friendsCount": 525,
       "location": "India"
     },
@@ -160,7 +344,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -177,7 +361,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -192,7 +376,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -210,7 +394,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -227,7 +411,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -244,7 +428,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -276,7 +460,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -291,7 +475,7 @@
       "name": "MomentumⓂ️Ⓜ️T",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_normal.jpg",
       "description": "Building a global financial OS for the tokenized future // Backed by @SuiNetwork @Coinbase @Circle @Jump_ @OKX_Ventures // https://t.co/2dKR0MTrPq",
-      "followersCount": 316384,
+      "followersCount": 316368,
       "friendsCount": 383,
       "location": "Sui & Beyond"
     },
@@ -323,7 +507,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -355,7 +539,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -370,7 +554,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -387,7 +571,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -404,7 +588,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -421,7 +605,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -438,7 +622,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -455,7 +639,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -472,7 +656,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -489,7 +673,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -538,7 +722,7 @@
       "name": "MomentumⓂ️Ⓜ️T",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_normal.jpg",
       "description": "Building a global financial OS for the tokenized future // Backed by @SuiNetwork @Coinbase @Circle @Jump_ @OKX_Ventures // https://t.co/2dKR0MTrPq",
-      "followersCount": 316384,
+      "followersCount": 316368,
       "friendsCount": 383,
       "location": "Sui & Beyond"
     },
@@ -555,7 +739,7 @@
       "name": "Ravi Shankar Prasad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833568215072706561/nwmXCzSF_normal.jpg",
       "description": "Member of Parliament from Patna Sahib Lok Sabha, Bihar. BJP worker.",
-      "followersCount": 5193354,
+      "followersCount": 5193357,
       "friendsCount": 525,
       "location": "India"
     },
@@ -572,7 +756,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -589,7 +773,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -606,7 +790,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -623,7 +807,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -640,7 +824,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -655,7 +839,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -670,7 +854,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -685,7 +869,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824438956219379712/O2JIZSz5_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15466552,
+      "followersCount": 15466556,
       "friendsCount": 526,
       "location": ""
     },
@@ -700,7 +884,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58286949,
+      "followersCount": 58287013,
       "friendsCount": 540,
       "location": "India"
     },
@@ -715,7 +899,7 @@
       "name": "PMO India",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1800520500432515073/tMB_rJVh_normal.jpg",
       "description": "Office of the Prime Minister of India",
-      "followersCount": 58286949,
+      "followersCount": 58287013,
       "friendsCount": 540,
       "location": "India"
     },
@@ -730,7 +914,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -745,7 +929,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -762,7 +946,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -796,7 +980,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -809,11 +993,26 @@
   },
   {
     "user": {
+      "screenName": "MarcusVPinto",
+      "name": "Marcus Pinto, MD, MS",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1714316855727304704/Js30tvux_normal.jpg",
+      "description": "Peripheral Nerve Neurologist and Pathologist @MayoClinic. Check my Highlights for Peripheral Neuropathy Education.",
+      "followersCount": 5150,
+      "friendsCount": 928,
+      "location": "Rochester, MN"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/MarcusVPinto/status/2045123508162773065",
+    "fullText": "Are you finding it challenging to counsel patients with peripheral neuropathy? Interested in strategies for managing diabetic, idiopathic, and metabolic syndrome-related neuropathies? Tune into this @neuro_podcast podcast, where we dive deep into these topics. Don’t miss out!"
+  },
+  {
+    "user": {
       "screenName": "smritiirani",
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -830,7 +1029,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833743527928541184/aT_uOoth_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36794801,
+      "followersCount": 36794915,
       "friendsCount": 317,
       "location": ""
     },
@@ -845,7 +1044,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -862,7 +1061,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1828927243176861696/VNuW-6r1_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12181507,
+      "followersCount": 12181515,
       "friendsCount": 1442,
       "location": "India"
     },
@@ -879,7 +1078,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106660621,
+      "followersCount": 106660726,
       "friendsCount": 2679,
       "location": "India"
     },
@@ -894,7 +1093,7 @@
       "name": "MomentumⓂ️Ⓜ️T",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_normal.jpg",
       "description": "Building a global financial OS for the tokenized future // Backed by @SuiNetwork @Coinbase @Circle @Jump_ @OKX_Ventures // https://t.co/2dKR0MTrPq",
-      "followersCount": 316384,
+      "followersCount": 316368,
       "friendsCount": 383,
       "location": "Sui & Beyond"
     },
@@ -911,7 +1110,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106660621,
+      "followersCount": 106660726,
       "friendsCount": 2679,
       "location": "India"
     },
@@ -926,7 +1125,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1833509376528945157/5AeMNn9f_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106660621,
+      "followersCount": 106660726,
       "friendsCount": 2679,
       "location": "India"
     },
