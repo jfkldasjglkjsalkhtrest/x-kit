@@ -1,11 +1,488 @@
 [
   {
     "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIB446-bgAAORmW.jpg",
+      "https://pbs.twimg.com/media/HIB46GJbEAA8NC8.jpg",
+      "https://pbs.twimg.com/media/HIB4608b0AA0qlg.jpg",
+      "https://pbs.twimg.com/media/HIB47nHaUAAhsu5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053774431252885869",
+    "fullText": "Some more glimpses from Somnath today… https://t.co/kp7kZd9nuh"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIB4gi9bYAAgWD4.jpg",
+      "https://pbs.twimg.com/media/HIB4hduawAA0w14.jpg",
+      "https://pbs.twimg.com/media/HIB4iR1aIAA5qW_.jpg",
+      "https://pbs.twimg.com/media/HIB4i_4bYAA_PDv.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053774024283693139",
+    "fullText": "A thousand years ago, the first of many attacks on Somnath took place. Those who kept engaging in such attacks believed they could shatter the ethos of our land. But, they were wrong. Thanks to fiercely courageous children of Bharat Mata, Somnath kept getting rebuilt. https://t.co/dN6qGEN4c9"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIB2XlFbUAAwKYn.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053771624579838444",
+    "fullText": "पवित्र सोमनाथ मंदिर के गगनचुंबी शिखर पर गर्व के साथ लहराता पावन ध्वज भारतवर्ष की आस्था की विजय का प्रतीक है। यह कोटि-कोटि भारतीयों की सामूहिक चेतना का दिव्य उद्घोष भी है। सोमनाथ के शिखर पर केसरिया ध्वज हमारी अटूट श्रद्धा की जीवंत विजयगाथा है। यह ध्वज अनंतकाल तक भारत के गौरव का https://t.co/4CsFPYioBj"
+  },
+  {
+    "user": {
+      "screenName": "smritiirani",
+      "name": "Smriti Z Irani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052196667206885376/jl2KT2PB_normal.jpg",
+      "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
+      "followersCount": 12182752,
+      "friendsCount": 1445,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBzIYnaYAAy8hZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/smritiirani/status/2053768024654815640",
+    "fullText": "श्री सोमनाथ मंदिर के जीर्णोद्धार के 75 वर्ष भारत की अखंड आस्था, सांस्कृतिक स्वाभिमान और सनातन चेतना की अमर गाथा हैं।\n\nअसंख्य आक्रमणों और चुनौतियों के बावजूद सोमनाथ का पुनर्जागरण भारतीय आत्मबल, श्रद्धा और राष्ट्रचेतना के पुनर्जागरण का भी प्रतीक है।\n\nआदरणीय प्रधानमंत्री श्री https://t.co/6Pr9pC7Mhs"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIByASGaMAAySx7.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053766986560422022",
+    "fullText": "सोमनाथ में सरदार वल्लभभाई पटेल को भावभीनी श्रद्धांजलि अर्पित की। उनकी दूरदृष्टि और दृढ़ संकल्प ने मंदिर के पुनर्निर्माण में निर्णायक भूमिका निभाई थी। सरदार पटेल का सपना था कि भारत की सांस्कृतिक गौरवगाथा और आध्यात्मिक निरंतरता का प्रतीक सोमनाथ अपनी पूरी दिव्यता और भव्यता के साथ https://t.co/eY437j4gCN"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBx7w2a4AAdm0p.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053766711330156753",
+    "fullText": "At Somnath, paid heartfelt tributes to Sardar Vallabhbhai Patel, whose vision and resolve played a defining role in the Temple’s reconstruction. He dreamt of seeing Somnath rise again in all its glory, as a symbol of India’s civilisational pride and spiritual continuity. \n\nWe https://t.co/ZXfvk5enWT"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBw2BcbcAA40Su.jpg",
+      "https://pbs.twimg.com/media/HIBwxjiaYAAwcQ0.jpg",
+      "https://pbs.twimg.com/media/HIBwy1ObYAA1nnM.jpg",
+      "https://pbs.twimg.com/media/HIBw0LZbcAAt2Jb.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053765514116395288",
+    "fullText": "सोमनाथ अमृत महोत्सव के पावन अवसर पर आकाश में गौरव और शौर्य का अद्भुत संगम देखने को मिला। भारतीय वायु सेना की 'सूर्य किरण' एरोबेटिक टीम ने सोमनाथ मंदिर के ऊपर अपने फ्लाईपास्ट से केसरिया और तिरंगे की आभा बिखेर दी। श्रद्धा और शक्ति के इस दृश्य ने हर भारतीय के मन को गर्व से भर दिया! https://t.co/2NerrD1jxV"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2053759178846699520/vid/avc1/1080x1920/ZJj1syvP7VGNXpVI.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/narendramodi/status/2053760373476716852",
+    "fullText": "In Somnath today, the skies witnessed a magnificent confluence of pride and valour. The Indian Air Force’s Suryakiran Team showcased a breathtaking flypast. This spirit of Bhakti and Shakti filled every heart with deep joy.\n\n@Suryakiran_IAF https://t.co/rGbDuKpelC"
+  },
+  {
+    "user": {
+      "screenName": "MMTFinance",
+      "name": "MomentumⓂ️Ⓜ️T",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_normal.jpg",
+      "description": "Building a global financial OS for the tokenized future // Backed by @SuiNetwork @Coinbase @Circle @Jump_ @OKX_Ventures // https://t.co/2dKR0MTrPq",
+      "followersCount": 318097,
+      "friendsCount": 408,
+      "location": "Sui & Beyond"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBjaT5WMAAYHqq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MMTFinance/status/2053750735414640815",
+    "fullText": "GM ☀️\n\nLooking for new crypto accounts to follow today.\n\nDrop a reply 👇 https://t.co/pWlQ8X2GR0"
+  },
+  {
+    "user": {
+      "screenName": "smritiirani",
+      "name": "Smriti Z Irani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052196667206885376/jl2KT2PB_normal.jpg",
+      "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
+      "followersCount": 12182752,
+      "friendsCount": 1445,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2053750411887325184/pu/vid/avc1/1280x720/PK3BNdYiK6oKxWuU.mp4?tag=25"
+    ],
+    "tweetUrl": "https://x.com/smritiirani/status/2053750492908704221",
+    "fullText": "जो स्वयं कालातीत हैं.... जो स्वयं कालस्वरूप हैं.... आज उन देवाधिदेव महादेव की विग्रह प्रतिष्ठा के हम 75 वर्ष मना रहे हैं। https://t.co/VIwqTayX2F"
+  },
+  {
+    "user": {
+      "screenName": "buidlpad",
+      "name": "Buidlpad",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2008020590763094016/mlbtOhMQ_normal.jpg",
+      "description": "Launch the Future.\nVisit https://t.co/DJeYCwiiVA for support (beware of impersonators)",
+      "followersCount": 218588,
+      "friendsCount": 11,
+      "location": "With the Community"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBgSNuaQAEEGbT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/buidlpad/status/2053748567412728261",
+    "fullText": "Still parking your USDC idle?\n\nFlexible Vaults are now earning up to 16.87% APY on USDC on Base.\nNo lock up. Real yield.\n\nStart earning today.\n👉https://t.co/iU6UM70YL2\n\n@native_fi https://t.co/FdNgF7yRPq"
+  },
+  {
+    "user": {
+      "screenName": "nitin_gadkari",
+      "name": "Nitin Gadkari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052293034075951104/aurdT4ct_normal.jpg",
+      "description": "Minister of Road Transport & Highways, Government of India.",
+      "followersCount": 15486155,
+      "friendsCount": 526,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2053746409833480192/vid/avc1/1920x1080/PWVEQ1XwRDwM_LNu.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/nitin_gadkari/status/2053747214330298499",
+    "fullText": "📍New Delhi\n\nInaugurated the Multi-Lane Free Flow (MLFF) based tolling system at the Mundaka Toll Plaza on the Urban Extension Road-II—the first barrier-less toll plaza in the Delhi NCR region—along with Union MoS Shri @AjayTamtaBJP Ji, Shri @hdmalhotra Ji, and senior officials. https://t.co/7WtIpE6fRL"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBfHYgaEAAqfmN.jpg",
+      "https://pbs.twimg.com/media/HIBfIlga4AAj_H9.jpg",
+      "https://pbs.twimg.com/media/HIBfKCzbYAAE8-X.jpg",
+      "https://pbs.twimg.com/media/HIBfKuibEAAYx4A.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053746163325821259",
+    "fullText": "To be praying to Mahadev on the special occasion marking 75 years since the rebuilt Somnath Temple opened its doors is an experience I’ll never forget. The Darshan and Pujan of Mahadev is a source of boundless spiritual energy. https://t.co/ZgjiQC0dzs"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBe6-RakAASG9_.jpg",
+      "https://pbs.twimg.com/media/HIBe8ita8AE_dnA.jpg",
+      "https://pbs.twimg.com/media/HIBe_28aoAA4Zoe.jpg",
+      "https://pbs.twimg.com/media/HIBfArEbsAAsLWm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053745918026162305",
+    "fullText": "सोमनाथ की भव्य और दिव्य पावन धरा पर महादेव के चरणों में महापूजा और कुंभाभिषेक का परम सौभाग्य प्राप्त करना जीवन के अत्यंत भावपूर्ण और अविस्मरणीय क्षणों में से एक है। ईश्वर रूपी जनता जनार्दन का स्मरण करते हुए महादेव के दर्शन और पूजन का यह अलौकिक अवसर, हृदय को अनंत आध्यात्मिक ऊर्जा, https://t.co/SDmJcisPYo"
+  },
+  {
+    "user": {
+      "screenName": "smritiirani",
+      "name": "Smriti Z Irani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052196667206885376/jl2KT2PB_normal.jpg",
+      "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
+      "followersCount": 12182752,
+      "friendsCount": 1445,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2053743269549686784/pu/vid/avc1/1280x720/iYk3rU-21Jw_0B1M.mp4?tag=25"
+    ],
+    "tweetUrl": "https://x.com/smritiirani/status/2053743319289835588",
+    "fullText": "राष्ट्र की शक्ति और सांस्कृतिक भक्ति का प्रतीक... श्री सोमनाथ ज्योतिर्लिंग ! 🙏 https://t.co/rJo1VMkPqV"
+  },
+  {
+    "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052250228921974784/iUPzQEHG_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58371466,
+      "friendsCount": 542,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBbcnYboAAcP_o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2053742078660927575",
+    "fullText": "सोमनाथ हमें याद दिलाता है कि कोई भी राष्ट्र तभी लंबे समय तक मजबूत रह सकता है, जब वो अपनी जड़ों से जुड़ा रहे: PM @narendramodi https://t.co/8bFkJ1c4Fg"
+  },
+  {
+    "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052250228921974784/iUPzQEHG_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58371466,
+      "friendsCount": 542,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBbKK4aIAAcNOq.jpg",
+      "https://pbs.twimg.com/media/HIBbMgQbwAAYqz1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2053741798280057033",
+    "fullText": "सोमनाथ मंदिर का पुनर्निर्माण भी हुआ... और देश ने सदियों के कलंक को भी धो दिया: PM @narendramodi https://t.co/Q1Cm09oXuz"
+  },
+  {
+    "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052250228921974784/iUPzQEHG_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58371466,
+      "friendsCount": 542,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBYUhWaMAAfIIM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2053738645115515339",
+    "fullText": "लुटेरों ने सोमनाथ मंदिर का वैभव मिटाने का प्रयास किया। वो सोमनाथ को एक भौतिक ढांचा मानकर उससे टकराते रहे! बार-बार इस मंदिर को तोड़ा गया...\n\nये बार-बार बनता रहा... हर बार उठ खड़ा होता रहा! https://t.co/LVlASBovVF"
+  },
+  {
+    "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052250228921974784/iUPzQEHG_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58371466,
+      "friendsCount": 542,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBWPAlaUAAVb85.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2053737150026600555",
+    "fullText": "सोमनाथ अमृत-महोत्सव... ये अगले एक हजार वर्षों के लिए भारत की प्रेरणा है। https://t.co/HypSK96Oai"
+  },
+  {
+    "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052250228921974784/iUPzQEHG_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58371466,
+      "friendsCount": 542,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBVgoybIAAYJO1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2053736122480779375",
+    "fullText": "75 साल पहले... आज के ही दिन सोमनाथ मंदिर की पुनर्स्थापना... ये कोई साधारण अवसर नहीं था।\n\nअगर 1947 में भारत आजाद हुआ था... तो, 1951 में सोमनाथ की प्राण प्रतिष्ठा ने... भारत की स्वतंत्र चेतना का उद्घोष किया था: PM @narendramodi https://t.co/CG3x0dTXbz"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053734569845948698",
+    "fullText": "Speaking at the Somnath Amrut Mahotsav. The Somnath Temple stands as a beacon of unwavering faith, divinity and a sacred symbol of India’s eternal soul. https://t.co/otO2YOCCUL"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBOZblasAAdwoQ.jpg",
+      "https://pbs.twimg.com/media/HIBObwNacAAIlRW.jpg",
+      "https://pbs.twimg.com/media/HIBOc1nasAAT54w.jpg",
+      "https://pbs.twimg.com/media/HIBOdnOagAAFLQa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053727762054259027",
+    "fullText": "At Somnath, one can experience Bhakti in every corner. Countless people have come together to mark 75 years since the rebuilt Temple opened its doors to devotees. That day was indeed a milestone in the civilisational journey of Bharat. https://t.co/wvNbmAN5V8"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBN5TfaIAAB7lN.jpg",
+      "https://pbs.twimg.com/media/HIBN6PXagAAXB-e.jpg",
+      "https://pbs.twimg.com/media/HIBN7B2bkAAlII_.jpg",
+      "https://pbs.twimg.com/media/HIBN78mbYAAeKiZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/narendramodi/status/2053727285971488816",
+    "fullText": "पुनर्निर्मित सोमनाथ मंदिर के लोकार्पण की 75वीं वर्षगांठ पर पावनधाम सोमनाथ आकर दिव्य अनुभूति हुई है। इस अवसर पर मंदिर मार्ग पर भगवान सोमनाथ के भक्तों के जोश और प्रचंड उत्साह को देखकर मन अभिभूत और भावविभोर है! मैं आज यहां उस क्षण को जी रहा हूं, जिसका अनुभव भारत के प्रथम राष्ट्रपति https://t.co/nzzOk94BQJ"
+  },
+  {
+    "user": {
+      "screenName": "narendramodi",
+      "name": "Narendra Modi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
+      "description": "Prime Minister of India",
+      "followersCount": 106800542,
+      "friendsCount": 2678,
+      "location": "India"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2053724754558033920/vid/avc1/1080x1920/2J7FbWtKfrJsipny.mp4?tag=27"
+    ],
+    "tweetUrl": "https://x.com/narendramodi/status/2053725579523096976",
+    "fullText": "Jai Somnath! Feeling blessed to be here, when we are marking 75 years since the rebuilt Temple opened its doors for devotees. https://t.co/gFumT80Qva"
+  },
+  {
+    "user": {
+      "screenName": "nitin_gadkari",
+      "name": "Nitin Gadkari",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052293034075951104/aurdT4ct_normal.jpg",
+      "description": "Minister of Road Transport & Highways, Government of India.",
+      "followersCount": 15486155,
+      "friendsCount": 526,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/nitin_gadkari/status/2053722935521911291",
+    "fullText": "📍Mundka–Bakkarwala Toll Plaza, Delhi | Live from Press Conference on launch of the Multi-Lane Free Flow (MLFF) tolling system https://t.co/2zNE5eLx2Y"
+  },
+  {
+    "user": {
+      "screenName": "smritiirani",
+      "name": "Smriti Z Irani",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052196667206885376/jl2KT2PB_normal.jpg",
+      "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
+      "followersCount": 12182752,
+      "friendsCount": 1445,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBGAnga4AAx9DI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/smritiirani/status/2053718409855287401",
+    "fullText": "Nation First, always. 🇮🇳\n\nPM @NarendraModi ji’s 7-point appeal to every Indian is a collective call towards a stronger and more resilient Bharat. https://t.co/DY5PDj6q1W"
+  },
+  {
+    "user": {
+      "screenName": "PMOIndia",
+      "name": "PMO India",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2052250228921974784/iUPzQEHG_normal.jpg",
+      "description": "Office of the Prime Minister of India",
+      "followersCount": 58371466,
+      "friendsCount": 542,
+      "location": "India"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/HIBDGMRaMAAHIP-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PMOIndia/status/2053715707020640610",
+    "fullText": "More than a temple, Somnath is a testament to India’s enduring spirit. From ruin to renewal, its journey reflects the unconquerable heritage of India and her undaunted legacy!\n\nUnion Minister Shri @gssjodhpur reflects on Somnath’s resilience and its timeless civilisational https://t.co/qfxWWwC0rv"
+  },
+  {
+    "user": {
       "screenName": "rsprasad",
       "name": "Ravi Shankar Prasad",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052227178654474240/Kgdnw76C_normal.jpg",
       "description": "Member of Parliament from Patna Sahib Lok Sabha, Bihar. BJP worker.",
-      "followersCount": 5193333,
+      "followersCount": 5193320,
       "friendsCount": 525,
       "location": "India"
     },
@@ -22,7 +499,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052196667206885376/jl2KT2PB_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12182767,
+      "followersCount": 12182752,
       "friendsCount": 1445,
       "location": "India"
     },
@@ -39,7 +516,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -56,7 +533,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -71,7 +548,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052232804092772352/jte8AaBO_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36992370,
+      "followersCount": 37017202,
       "friendsCount": 317,
       "location": ""
     },
@@ -86,7 +563,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052293034075951104/aurdT4ct_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15486034,
+      "followersCount": 15486155,
       "friendsCount": 526,
       "location": ""
     },
@@ -101,7 +578,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052293034075951104/aurdT4ct_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15486034,
+      "followersCount": 15486155,
       "friendsCount": 526,
       "location": ""
     },
@@ -118,7 +595,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -135,7 +612,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -152,7 +629,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -169,7 +646,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -186,7 +663,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -203,7 +680,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -220,8 +697,8 @@
       "name": "MomentumⓂ️Ⓜ️T",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_normal.jpg",
       "description": "Building a global financial OS for the tokenized future // Backed by @SuiNetwork @Coinbase @Circle @Jump_ @OKX_Ventures // https://t.co/2dKR0MTrPq",
-      "followersCount": 318015,
-      "friendsCount": 404,
+      "followersCount": 318097,
+      "friendsCount": 408,
       "location": "Sui & Beyond"
     },
     "images": [],
@@ -235,7 +712,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -255,7 +732,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -272,7 +749,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -289,7 +766,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -306,7 +783,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -323,7 +800,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -340,7 +817,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -357,7 +834,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -374,7 +851,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -394,7 +871,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -414,7 +891,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052232804092772352/jte8AaBO_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36992370,
+      "followersCount": 37017202,
       "friendsCount": 317,
       "location": ""
     },
@@ -431,7 +908,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -446,7 +923,7 @@
       "name": "Nitin Gadkari",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052293034075951104/aurdT4ct_normal.jpg",
       "description": "Minister of Road Transport & Highways, Government of India.",
-      "followersCount": 15486034,
+      "followersCount": 15486155,
       "friendsCount": 526,
       "location": ""
     },
@@ -463,7 +940,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -483,7 +960,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -503,7 +980,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052232804092772352/jte8AaBO_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36992370,
+      "followersCount": 37017202,
       "friendsCount": 317,
       "location": ""
     },
@@ -523,7 +1000,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -540,7 +1017,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052232804092772352/jte8AaBO_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36992370,
+      "followersCount": 37017202,
       "friendsCount": 317,
       "location": ""
     },
@@ -560,7 +1037,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -580,7 +1057,7 @@
       "name": "Subramanian Swamy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1558625924488339459/kriGq-tU_normal.jpg",
       "description": "President of Virat Hindustan Sangam, fmr Cabinet Minister, Six terms MP, Member BJP, Harvard Ph.D (Economics), former Professor, I give as good as I get.",
-      "followersCount": 10339663,
+      "followersCount": 10339629,
       "friendsCount": 175,
       "location": "New Delhi"
     },
@@ -595,7 +1072,7 @@
       "name": "Subramanian Swamy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1558625924488339459/kriGq-tU_normal.jpg",
       "description": "President of Virat Hindustan Sangam, fmr Cabinet Minister, Six terms MP, Member BJP, Harvard Ph.D (Economics), former Professor, I give as good as I get.",
-      "followersCount": 10339663,
+      "followersCount": 10339629,
       "friendsCount": 175,
       "location": "New Delhi"
     },
@@ -610,7 +1087,7 @@
       "name": "Smriti Z Irani",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052196667206885376/jl2KT2PB_normal.jpg",
       "description": "Grassroots BJP politician, Former Cabinet Minister, Media personality - Breaking barriers, creating lasting impact!\nhttps://t.co/p1ROMFi7sm",
-      "followersCount": 12182767,
+      "followersCount": 12182752,
       "friendsCount": 1445,
       "location": "India"
     },
@@ -627,7 +1104,7 @@
       "name": "Amit Shah",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052232804092772352/jte8AaBO_normal.jpg",
       "description": "Union Home Minister, Minister of Cooperation and MP, Gandhinagar Lok Sabha. https://t.co/jEf4rOW2AD",
-      "followersCount": 36992370,
+      "followersCount": 37017202,
       "friendsCount": 317,
       "location": ""
     },
@@ -644,7 +1121,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
@@ -664,7 +1141,7 @@
       "name": "Narendra Modi",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2052224427245629440/eYH6JBuT_normal.jpg",
       "description": "Prime Minister of India",
-      "followersCount": 106799041,
+      "followersCount": 106800542,
       "friendsCount": 2678,
       "location": "India"
     },
